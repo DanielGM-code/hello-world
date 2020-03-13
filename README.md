@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello there!
+
+Me gusta la pizza y la programación. Si estás leyendo esto es porque a ti también.
