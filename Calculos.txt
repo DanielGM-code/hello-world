@@ -1,0 +1,14 @@
+Primera definición:
+a - n + 2
+25 - 19 + 2
+= 8
+
+Segunda definición:
+nps + 1
+7 + 1
+=8
+
+Tercera definición:
+rr + 1
+7 + 1
+= 8
